@@ -1,0 +1,8 @@
+name: skin_quality_app
+description: A Flutter app scaffold for SkinQuality
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.0
